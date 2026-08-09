@@ -1,0 +1,6 @@
+{
+    "monitor_directory": "test_files",
+    "hash_algorithm": "sha256",
+    "baseline_file": "baseline.json",
+    "log_file": "fim.log"
+}
